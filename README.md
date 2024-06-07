@@ -25,6 +25,8 @@ Now that you know how to get started in IT, it is important to understand the ba
    
 ## What You Learned
 
+If you used the resources above, you should have a good understanding of the following topics:
+
 1. **Introduction to IT Fundamentals**
    - What are IT Fundamentals?
    - Overview of IT Roles and Responsibilities
