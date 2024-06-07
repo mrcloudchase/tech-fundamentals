@@ -12,12 +12,16 @@
 It is important to understand the basics of IT before diving into more specialized areas. Here are some resources to help you get started:
 
 Before diving in it is important to understand how to get started in IT and what types of roles are available. I feel this video outlines this well.
-   - [How to Get Started in IT](https://www.youtube.com/watch?v=XkTNQCtuRPY&list=PLG49S3nxzAnkUvxTH_ANPYQWGo9wYlz7h)
+
+- [How to Get Started in IT](https://www.youtube.com/watch?v=XkTNQCtuRPY&list=PLG49S3nxzAnkUvxTH_ANPYQWGo9wYlz7h)
 
 Now that you know how to get started in IT, it is important to understand the basic concepts in IT such as hardware, software, and networking. Here are some resources to help you with that:
-    - [GCF Global - Basic Computer Skills](https://www.youtube.com/playlist?list=PL4316FC411AD077AA)
-    - [CompTIA A+ 220-1101](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
-    - [CompTIA A+ 220-1102](https://www.youtube.com/watch?v=ChQ18B1hofI&list=PLG49S3nxzAnmwkCAdWUgCFvVK4IxMBTmb)
+    
+- [GCF Global - Basic Computer Skills](https://www.youtube.com/playlist?list=PL4316FC411AD077AA)
+
+- [CompTIA A+ 220-1101](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
+
+- [CompTIA A+ 220-1102](https://www.youtube.com/watch?v=ChQ18B1hofI&list=PLG49S3nxzAnmwkCAdWUgCFvVK4IxMBTmb)
    
 ## What You Learned
 
