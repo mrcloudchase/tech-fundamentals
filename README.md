@@ -84,7 +84,7 @@ If you used the resources above, you should have a good understanding of the fol
 
 Once you have a good understanding of the basics, you can start exploring more specialized areas of IT. Here are some learning paths you might consider:
 
-- [Linux Engineering](../linux-engineering/README.md)
-- [Cloud Engineering](../cloud-engineering/README.md)
-- [DevOps Engineering](../devops-engineering/README.md)
-- [AI Engineering](../ai-engineering/README.md)
+- [Linux Engineering - COMING SOON](../linux-engineering/README.md)
+- [Cloud Engineering - COMING SOON](../cloud-engineering/README.md)
+- [DevOps Engineering - COMING SOON](../devops-engineering/README.md)
+- [AI/ML Engineering - COMING SOON](../ai-engineering/README.md)
