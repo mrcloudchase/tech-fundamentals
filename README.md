@@ -22,6 +22,10 @@ Now that you know how to get started in IT, it is important to understand the ba
 - [CompTIA A+ 220-1101](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)
 
 - [CompTIA A+ 220-1102](https://www.youtube.com/watch?v=ChQ18B1hofI&list=PLG49S3nxzAnmwkCAdWUgCFvVK4IxMBTmb)
+
+- [Tech Fundamentals](https://www.youtube.com/playlist?list=PLTk5ZYSbd9Mh1mxFFu1Jx-g9VsdzQ0REW)
+
+- [Network Fundamentals](https://www.youtube.com/watch?v=6hPMdpk9qA4&list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1)
    
 ## What You Learned
 
@@ -84,7 +88,7 @@ If you used the resources above, you should have a good understanding of the fol
 
 Once you have a good understanding of the basics, you can start exploring more specialized areas of IT. Here are some learning paths you might consider:
 
-- [Linux Engineering - COMING SOON](../linux-engineering/README.md)
+- [Linux Engineering](https://github.com/mrcloudchase/linux-engineering)
 - [Cloud Engineering - COMING SOON](../cloud-engineering/README.md)
 - [DevOps Engineering - COMING SOON](../devops-engineering/README.md)
 - [AI/ML Engineering - COMING SOON](../ai-engineering/README.md)
